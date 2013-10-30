@@ -1,4 +1,4 @@
-package net.kaleidos.directmessagesample
+package net.kaleidos.directmessagessample
 
 class User {
     String name

@@ -59,6 +59,6 @@ grails.project.dependency.resolution = {
         runtime ":database-migration:1.3.2"
 
         compile ':cache:1.0.1'
-        compile ':grails-direct-message'
+        compile ":grails-direct-messages:0.1"
     }
 }
